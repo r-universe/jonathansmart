@@ -5,3 +5,9 @@
 [submodule "AquaticLifeHistory"]
 	path = AquaticLifeHistory
 	url = https://github.com/jonathansmart/aquaticlifehistory
+[submodule "BayesGrowth"]
+	path = BayesGrowth
+	url = https://github.com/jonathansmart/bayesgrowth
+[submodule "SharkDemography"]
+	path = SharkDemography
+	url = https://github.com/jonathansmart/sharkdemography
